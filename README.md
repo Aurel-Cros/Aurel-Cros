@@ -23,7 +23,7 @@ I'm a web developer from France, although I am very comfortable with the english
 
 Unexpected for a frenchie, I know.
 
-I am focused on the Javascript environment, specifically React and Node at the moment.<br>I also know my way around Symfony, and I'm always up for picking up a new tech anyways !
+I am focused on the Javascript environment, specifically React and Node at the moment. I also know my way around Symfony, and I'm always up for picking up a new tech anyways !
 
 I enjoy and know my way around Lightroom and Photoshop, or photography in general. :v:
 
