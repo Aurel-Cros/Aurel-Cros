@@ -1,3 +1,7 @@
+<div align="center">
+
+![Bannière](https://github.com/Aurel-Cros/Aurel-Cros/blob/main/github-header-image.png)
+
 ![Visual_Studio_Code-0078D4 style=for-the-badge logo=visual%20studio%20code logoColor=white](https://github.com/Aurel-Cros/Aurel-Cros/assets/100714646/63c1b913-dae1-4614-a94f-2351192a5d87)
 ![React-20232A style=for-the-badge logo=react logoColor=61DAFB](https://github.com/Aurel-Cros/Aurel-Cros/assets/100714646/8fbd95e2-ca74-48b6-986d-d4b97dc30945)
 ![Node js-43853D style=for-the-badge logo=node](https://github.com/Aurel-Cros/Aurel-Cros/assets/100714646/dfb86577-bb70-436e-8feb-c969008903ff)
@@ -7,13 +11,15 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+<!-- ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) -->
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Spotify-1ED760 style=for-the-badge logo=spotify logoColor=white](https://github.com/Aurel-Cros/Aurel-Cros/assets/100714646/c413758d-e57b-4df1-9dc0-942e31d2c45f)
 ![Steam-000000 style=for-the-badge logo=steam logoColor=white](https://github.com/Aurel-Cros/Aurel-Cros/assets/100714646/2510b89b-c821-435c-898e-4b8a24b3822f)
 ![KFC-F40027 style=for-the-badge logo=kfc logoColor=white](https://github.com/Aurel-Cros/Aurel-Cros/assets/100714646/9f0c755e-d5cc-4493-ab3c-9a6845d6bace)
 
+  
+</div>
 
 # Hi there 👋
 
