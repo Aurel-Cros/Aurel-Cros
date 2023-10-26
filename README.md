@@ -33,6 +33,16 @@ I am focused on the Javascript environment, specifically React and Node at the m
 
 I enjoy and know my way around Lightroom and Photoshop, or photography in general. :v:
 
+## Goals
+
+### Major
+
+Learning Typescript ! If Symfony has done anything for me lately, it's making me prefer strongly-typed code.
+
+### Minor 
+
+Doing more projects with Node.js - building APIs using Express, etc, to be more confident with it.
+
 ## Available for work starting February 2024 ! ✨
 
 ### 📫 How to reach me
