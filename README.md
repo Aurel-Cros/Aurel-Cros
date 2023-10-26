@@ -23,9 +23,9 @@
 
 # Hi there 👋
 
-I'm a web developer from France, although I am very comfortable with the english language.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurel-Cros&layout=donut&theme=nightowl&bg_color=90,011627,042f4f" alt="Mes stats" align="right" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurel-Cros&theme=blue-green" alt="Mes stats" align="right" />
+I'm a web developer from France, although I am very comfortable with the english language. 
 
 Unexpected for a frenchie, I know.
 
