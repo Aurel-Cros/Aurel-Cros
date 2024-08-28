@@ -29,21 +29,27 @@ I'm a web developer from France, although I am very comfortable with the english
 
 Unexpected for a frenchie, I know.
 
-I am focused on the Javascript environment, specifically React and Node at the moment. I also know my way around Symfony, and I'm always up for picking up a new tech anyways !
+I am focused on the Javascript environment, specifically React and Node (with TypeScript ! ) at the moment. I also know my way around Symfony, and I'm always up for picking up a new tech anyways !
 
 I enjoy and know my way around Lightroom and Photoshop, or photography in general. :v:
 
 ## Goals
 
+### Recent achievements
+
+- [x] Learning Typescript ! Strongly typed code is a key component nowadays, and it's an important step a wanted to take.
+- [x] Building a solid micro services architecture with Docker, including a Redis cache, proper logging, monitoring, and robust error handling.
+
 ### Major
 
-Learning Typescript ! If Symfony has done anything for me lately, it's making me prefer strongly-typed code.
+- [ ] Being involved in a long-term project, with a focus on quality rather than quick & dirty productivity.
+- [ ] Learning Rust ? It seems WebAssembly will be a major technology for quicker web apps in the coming years, I'm keeping my eye on it.
 
 ### Minor 
 
-Doing more projects with Node.js - building APIs using Express, etc, to be more confident with it.
+- [ ] Learning Laravel. Knowing Symfony is handy, but knowing both would open most of the PHP world to me.
 
-## Available for work starting February 2024 ! ✨
+## Available for work starting September 2024 ! ✨
 
 ### 📫 How to reach me
 
