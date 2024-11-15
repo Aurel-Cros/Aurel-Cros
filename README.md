@@ -49,7 +49,7 @@ I enjoy and know my way around Lightroom and Photoshop, or photography in genera
 
 - [ ] Learning Laravel. Knowing Symfony is handy, but knowing both would open most of the PHP world to me.
 
-## Available for work starting September 2024 ! ✨
+## Available for work ✨
 
 ### 📫 How to reach me
 
