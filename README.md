@@ -49,12 +49,6 @@ I enjoy and know my way around Lightroom and Photoshop, or photography in genera
 
 - [ ] Learning Laravel. Knowing Symfony is handy, but knowing both would open most of the PHP world to me.
 
-## Available for work ✨
-
-### 📫 How to reach me
-
-Your best bet is the contact form on my [online portfolio](https://aurelien-cros.fr) - it is hooked to me directly. 😅
-
 <!--
 **Aurel-Cros/Aurel-Cros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
